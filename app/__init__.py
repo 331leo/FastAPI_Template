@@ -12,8 +12,8 @@ load_dotenv()
 
 cors_origins = json.loads(os.getenv("origins", '["*"]'))
 app_config = {
-    "title": "HyundaiClicker Backend",
-    "description": "Hyundai Clicker backend API [GitHub](https://github.com/hyundaicpu/hyundaiclicker-backend)",
+    "title": "FastAPI Template",
+    "description": "FastAPI Template [GitHub](https://github.com/331leo/FastAPI_Template)",
     "version": "0.0.1",
     "redoc_url": "/docs/redoc",
     "docs_url": "/docs/swagger",

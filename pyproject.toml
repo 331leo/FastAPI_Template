@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "hyundaiclicker-backend"
+name = "FastAPI_Template"
 version = "0.1.0"
-description = "HyundaiClicker Backend Server built With FastAPI on Python"
+description = "FastAPI Template"
 authors = ["Leo Kim <me@leok.kr>"]
 license = "MIT"
 
