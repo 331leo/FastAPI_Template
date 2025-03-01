@@ -1,2 +1,3 @@
-# from .some import thing
-__all__ = []
+from model_ex import User
+
+__all__ = [User]
